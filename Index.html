@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <label for="chapterSelect">Study:</label>
+
+    <select id="chapterSelect">
+        <option value="all">All Chapters</option>
+    </select>
+
+    <button onclick="startSession()">
+        Start Session
+    </button>
+
+    <hr>
+    <title>Greek Flashcards</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="card">
+        <h1 id="greekWord">λύω</h1>
+
+        <p id="definition" style="display:none;">
+            I loose, release
+        </p>
+
+        <button onclick="showAnswer()">
+            Show Answer
+        </button>
+
+        <br><br>
+
+        <button onclick="knewIt()">
+            ✓ Knew It
+        </button>
+
+        <button onclick="missedIt()">
+            ✗ Missed It
+        </button>
+
+<p id="remaining"></p>
+<p id="stats"></p>
+    </div>
+
+    <script src="app.js"></script>
+
+</body>
+</html>

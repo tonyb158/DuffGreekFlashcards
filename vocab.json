@@ -1,0 +1,3022 @@
+[
+  {
+    "chapter": 1,
+    "greek": "Ἀβραάμ",
+    "english": "Abraham"
+  },
+  {
+    "chapter": 1,
+    "greek": "ἀμήν",
+    "english": "amen, truly"
+  },
+  {
+    "chapter": 1,
+    "greek": "Δαυίδ",
+    "english": "David"
+  },
+  {
+    "chapter": 1,
+    "greek": "ῥαββί",
+    "english": "rabbi"
+  },
+  {
+    "chapter": 1,
+    "greek": "Ἰακώβ",
+    "english": "Jacob"
+  },
+  {
+    "chapter": 1,
+    "greek": "Ἰσραήλ",
+    "english": "Israel"
+  },
+  {
+    "chapter": 1,
+    "greek": "Ἰωσήφ",
+    "english": "Joseph"
+  },
+  {
+    "chapter": 1,
+    "greek": "καί",
+    "english": "and"
+  },
+  {
+    "chapter": 2,
+    "greek": "ἄγω",
+    "english": "I lead, bring"
+  },
+  {
+    "chapter": 2,
+    "greek": "ἀκούω",
+    "english": "I hear, listen to"
+  },
+  {
+    "chapter": 2,
+    "greek": "βάλλω",
+    "english": "I throw"
+  },
+  {
+    "chapter": 2,
+    "greek": "βλέπω",
+    "english": "I see, watch"
+  },
+  {
+    "chapter": 2,
+    "greek": "διδάσκω",
+    "english": "I teach"
+  },
+  {
+    "chapter": 2,
+    "greek": "ἔχω",
+    "english": "I have, hold"
+  },
+  {
+    "chapter": 2,
+    "greek": "λαμβάνω",
+    "english": "I take, receive"
+  },
+  {
+    "chapter": 2,
+    "greek": "λέγω",
+    "english": "I say, speak, tell"
+  },
+  {
+    "chapter": 2,
+    "greek": "λύω",
+    "english": "I untie"
+  },
+  {
+    "chapter": 2,
+    "greek": "ζητέω",
+    "english": "I seek"
+  },
+  {
+    "chapter": 2,
+    "greek": "καλέω",
+    "english": "I call"
+  },
+  {
+    "chapter": 2,
+    "greek": "λαλέω",
+    "english": "I speak, say"
+  },
+  {
+    "chapter": 2,
+    "greek": "ποιέω",
+    "english": "I do, make"
+  },
+  {
+    "chapter": 2,
+    "greek": "τηρέω",
+    "english": "I keep"
+  },
+  {
+    "chapter": 2,
+    "greek": "φιλέω",
+    "english": "I love, like"
+  },
+  {
+    "chapter": 2,
+    "greek": "ἄγγελος",
+    "english": "messenger, angel"
+  },
+  {
+    "chapter": 2,
+    "greek": "ἀδελφός",
+    "english": "brother"
+  },
+  {
+    "chapter": 2,
+    "greek": "ἄρτος",
+    "english": "bread"
+  },
+  {
+    "chapter": 2,
+    "greek": "δοῦλος",
+    "english": "slave"
+  },
+  {
+    "chapter": 2,
+    "greek": "θεός",
+    "english": "god, God"
+  },
+  {
+    "chapter": 2,
+    "greek": "κόσμος",
+    "english": "world"
+  },
+  {
+    "chapter": 2,
+    "greek": "κύριος",
+    "english": "lord, master, sir"
+  },
+  {
+    "chapter": 2,
+    "greek": "λόγος",
+    "english": "word, message"
+  },
+  {
+    "chapter": 2,
+    "greek": "νόμος",
+    "english": "law"
+  },
+  {
+    "chapter": 2,
+    "greek": "οἶκος",
+    "english": "household, house"
+  },
+  {
+    "chapter": 2,
+    "greek": "οὐρανός",
+    "english": "heaven"
+  },
+  {
+    "chapter": 2,
+    "greek": "ὄχλος",
+    "english": "crowd"
+  },
+  {
+    "chapter": 2,
+    "greek": "υἱός",
+    "english": "son"
+  },
+  {
+    "chapter": 2,
+    "greek": "Χριστός",
+    "english": "Christ, Messiah"
+  },
+  {
+    "chapter": 2,
+    "greek": "ἄνθρωπος",
+    "english": "human being, person"
+  },
+  {
+    "chapter": 2,
+    "greek": "λαός",
+    "english": "people (as in ‘a people’ or ‘a nation’)"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἀγάπη",
+    "english": "love"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἀδελφή",
+    "english": "sister"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἀρχή",
+    "english": "beginning"
+  },
+  {
+    "chapter": 3,
+    "greek": "γῆ",
+    "english": "earth, soil, land"
+  },
+  {
+    "chapter": 3,
+    "greek": "ζωή",
+    "english": "life"
+  },
+  {
+    "chapter": 3,
+    "greek": "φωνή",
+    "english": "sound, voice"
+  },
+  {
+    "chapter": 3,
+    "greek": "ψυχή",
+    "english": "soul, self"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἁμαρτία",
+    "english": "sin"
+  },
+  {
+    "chapter": 3,
+    "greek": "βασιλεία",
+    "english": "reign, kingship, kingom"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἐκκλησία",
+    "english": "assembly (later ‘church’)"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἡμέρα",
+    "english": "day"
+  },
+  {
+    "chapter": 3,
+    "greek": "καρδία",
+    "english": "heart"
+  },
+  {
+    "chapter": 3,
+    "greek": "Μαρία",
+    "english": "Mary"
+  },
+  {
+    "chapter": 3,
+    "greek": "Μαριάμ",
+    "english": "Mary"
+  },
+  {
+    "chapter": 3,
+    "greek": "οἰκία",
+    "english": "house, household"
+  },
+  {
+    "chapter": 3,
+    "greek": "ὥρα",
+    "english": "hour, occasion"
+  },
+  {
+    "chapter": 3,
+    "greek": "δόξα",
+    "english": "splendour, glory"
+  },
+  {
+    "chapter": 3,
+    "greek": "θάλασσα",
+    "english": "sea, lake"
+  },
+  {
+    "chapter": 3,
+    "greek": "βιβλίον",
+    "english": "book, scroll"
+  },
+  {
+    "chapter": 3,
+    "greek": "δαιμόνιον",
+    "english": "demon"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἔργον",
+    "english": "work, deed"
+  },
+  {
+    "chapter": 3,
+    "greek": "εὐαγγέλιον",
+    "english": "good news, gospel"
+  },
+  {
+    "chapter": 3,
+    "greek": "ἱερόν",
+    "english": "temple"
+  },
+  {
+    "chapter": 3,
+    "greek": "πλοῖον",
+    "english": "boat"
+  },
+  {
+    "chapter": 3,
+    "greek": "πρόσωπον",
+    "english": "face"
+  },
+  {
+    "chapter": 3,
+    "greek": "σάββατον",
+    "english": "Sabbath"
+  },
+  {
+    "chapter": 3,
+    "greek": "σημεῖον",
+    "english": "sign, miracle"
+  },
+  {
+    "chapter": 3,
+    "greek": "τέκνον",
+    "english": "child"
+  },
+  {
+    "chapter": 3,
+    "greek": "αὐτός",
+    "english": "he, she, it, they"
+  },
+  {
+    "chapter": 3,
+    "greek": "Ἰησοῦς",
+    "english": "Jesus"
+  },
+  {
+    "chapter": 3,
+    "greek": "Παῦλος",
+    "english": "Paul"
+  },
+  {
+    "chapter": 3,
+    "greek": "Πέτρος",
+    "english": "Peter"
+  },
+  {
+    "chapter": 3,
+    "greek": "πιστεύω",
+    "english": "(+ dat.) I believe (in), trust, have faith in"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἀπό",
+    "english": "(+gen.) (away) from"
+  },
+  {
+    "chapter": 4,
+    "greek": "διά",
+    "english": "(+acc.) because of; (+gen.) through"
+  },
+  {
+    "chapter": 4,
+    "greek": "εἰς",
+    "english": "(+acc.) into"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἐκ",
+    "english": "(+gen.) (out of) from"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἐν",
+    "english": "(+dat.) in"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἐνώπιον",
+    "english": "(+gen.) in front of, in the presence of"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἔξω",
+    "english": "(+gen.) outside"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἐπί",
+    "english": "(+acc.) onto; (+gen.) on, in the time of; (+dat.) on, in, on the basis of"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἕως",
+    "english": "(+gen.) until"
+  },
+  {
+    "chapter": 4,
+    "greek": "κατά",
+    "english": "(+acc.) according to; (+gen.) against"
+  },
+  {
+    "chapter": 4,
+    "greek": "μετά",
+    "english": "(+acc.) after; (+gen.) with"
+  },
+  {
+    "chapter": 4,
+    "greek": "παρά",
+    "english": "(+acc.) alongside; (+gen.) from beside; (+dat.) beside"
+  },
+  {
+    "chapter": 4,
+    "greek": "περί",
+    "english": "(+acc.) around, approximately; (+gen.) concerning, about"
+  },
+  {
+    "chapter": 4,
+    "greek": "πρό",
+    "english": "(+gen.) before"
+  },
+  {
+    "chapter": 4,
+    "greek": "πρός",
+    "english": "(+acc.) to, towards"
+  },
+  {
+    "chapter": 4,
+    "greek": "σύν",
+    "english": "(+dat.) together with"
+  },
+  {
+    "chapter": 4,
+    "greek": "ὑπέρ",
+    "english": "(+acc.) above; (+gen.) on behalf of"
+  },
+  {
+    "chapter": 4,
+    "greek": "ὑπό",
+    "english": "(+acc.) under; (+gen.) by, at the hands of"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἀναβλέπω",
+    "english": "I look up, receive sight"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἀπολύω",
+    "english": "I set free, divorce, dismiss"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἐκβάλλω",
+    "english": "I drive out, cast out, throw out"
+  },
+  {
+    "chapter": 4,
+    "greek": "ἐπικαλέω",
+    "english": "I call upon, name"
+  },
+  {
+    "chapter": 4,
+    "greek": "κατοικέω",
+    "english": "I dwell, inhabit, live"
+  },
+  {
+    "chapter": 4,
+    "greek": "παρακαλέω",
+    "english": "I exhort, request, comfort, encourage"
+  },
+  {
+    "chapter": 4,
+    "greek": "παραλαμβάνω",
+    "english": "I take, receive"
+  },
+  {
+    "chapter": 4,
+    "greek": "περιπατέω",
+    "english": "I walk about, live"
+  },
+  {
+    "chapter": 4,
+    "greek": "προσκυνέω",
+    "english": "(+dat.) I worship"
+  },
+  {
+    "chapter": 4,
+    "greek": "συνάγω",
+    "english": "I gather, bring together"
+  },
+  {
+    "chapter": 4,
+    "greek": "ὑπάγω",
+    "english": "I depart"
+  },
+  {
+    "chapter": 4,
+    "greek": "πῶς",
+    "english": "how?"
+  },
+  {
+    "chapter": 4,
+    "greek": "ποῦ",
+    "english": "where?"
+  },
+  {
+    "chapter": 4,
+    "greek": "οὐ",
+    "english": "not"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἀγαθός",
+    "english": "good"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἀγαπητός",
+    "english": "beloved"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἅγιος",
+    "english": "holy"
+  },
+  {
+    "chapter": 5,
+    "greek": "δίκαιος",
+    "english": "upright, just"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἕκαστος",
+    "english": "each"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἕτερος",
+    "english": "another, different"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἴδιος",
+    "english": "one’s own"
+  },
+  {
+    "chapter": 5,
+    "greek": "Ἰουδαῖος",
+    "english": "Jewish, a Jew"
+  },
+  {
+    "chapter": 5,
+    "greek": "κακός",
+    "english": "bad"
+  },
+  {
+    "chapter": 5,
+    "greek": "καλός",
+    "english": "beautiful, good"
+  },
+  {
+    "chapter": 5,
+    "greek": "καινός",
+    "english": "new"
+  },
+  {
+    "chapter": 5,
+    "greek": "μακάριος",
+    "english": "blessed, happy"
+  },
+  {
+    "chapter": 5,
+    "greek": "μόνος",
+    "english": "only, alone"
+  },
+  {
+    "chapter": 5,
+    "greek": "νεκρός",
+    "english": "dead"
+  },
+  {
+    "chapter": 5,
+    "greek": "ὁσός",
+    "english": "as/how great, as/how much"
+  },
+  {
+    "chapter": 5,
+    "greek": "πιστός",
+    "english": "faithful, believing"
+  },
+  {
+    "chapter": 5,
+    "greek": "πονηρός",
+    "english": "evil, wicked"
+  },
+  {
+    "chapter": 5,
+    "greek": "τυφλός",
+    "english": "blind"
+  },
+  {
+    "chapter": 5,
+    "greek": "μέγας μεγάλη",
+    "english": "large, great"
+  },
+  {
+    "chapter": 5,
+    "greek": "πολύς πολλή",
+    "english": "much, many"
+  },
+  {
+    "chapter": 5,
+    "greek": "Γαλιλαία",
+    "english": "Galilee"
+  },
+  {
+    "chapter": 5,
+    "greek": "εἰρήνη",
+    "english": "peace"
+  },
+  {
+    "chapter": 5,
+    "greek": "κεφαλή",
+    "english": "head"
+  },
+  {
+    "chapter": 5,
+    "greek": "συναγωγή",
+    "english": "synagogue"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἀλλά",
+    "english": "but"
+  },
+  {
+    "chapter": 5,
+    "greek": "εἰ",
+    "english": "if"
+  },
+  {
+    "chapter": 5,
+    "greek": "ἤ",
+    "english": "or"
+  },
+  {
+    "chapter": 5,
+    "greek": "ὡς",
+    "english": "as, like"
+  },
+  {
+    "chapter": 5,
+    "greek": "καιρός",
+    "english": "time, season"
+  },
+  {
+    "chapter": 5,
+    "greek": "εἰμί",
+    "english": "I am"
+  },
+  {
+    "chapter": 5,
+    "greek": "Ἱεροσόλυμα",
+    "english": "Jerusalem"
+  },
+  {
+    "chapter": 5,
+    "greek": "Ἰερουσαλήμ",
+    "english": "Jerusalem"
+  },
+  {
+    "chapter": 5,
+    "greek": "αἰώνιος",
+    "english": "eternal"
+  },
+  {
+    "chapter": 6,
+    "greek": "ἀνοίγω",
+    "english": "I open"
+  },
+  {
+    "chapter": 6,
+    "greek": "ἀποκαλύπτω",
+    "english": "I reveal, uncover"
+  },
+  {
+    "chapter": 6,
+    "greek": "βαπτίζω",
+    "english": "I baptise, dip"
+  },
+  {
+    "chapter": 6,
+    "greek": "γράφω",
+    "english": "I write"
+  },
+  {
+    "chapter": 6,
+    "greek": "διώκω",
+    "english": "I persecute, persue"
+  },
+  {
+    "chapter": 6,
+    "greek": "δοξάζω",
+    "english": "I praise, glorify"
+  },
+  {
+    "chapter": 6,
+    "greek": "κηρύσσω",
+    "english": "I proclaim, preach"
+  },
+  {
+    "chapter": 6,
+    "greek": "αἰτέω",
+    "english": "I ask (for)"
+  },
+  {
+    "chapter": 6,
+    "greek": "κράζω",
+    "english": "I cry out"
+  },
+  {
+    "chapter": 6,
+    "greek": "πέμπω",
+    "english": "I send"
+  },
+  {
+    "chapter": 6,
+    "greek": "πείθω",
+    "english": "I convince, persuade"
+  },
+  {
+    "chapter": 6,
+    "greek": "σῴζω",
+    "english": "I save, rescue, heal"
+  },
+  {
+    "chapter": 6,
+    "greek": "ὑπάρχω",
+    "english": "I exist, am"
+  },
+  {
+    "chapter": 6,
+    "greek": "εὐλογέω",
+    "english": "I speak well of, bless, praise"
+  },
+  {
+    "chapter": 6,
+    "greek": "εὐχαριστέω",
+    "english": "I give thanks"
+  },
+  {
+    "chapter": 6,
+    "greek": "οἰκοδομέω",
+    "english": "I build (up)"
+  },
+  {
+    "chapter": 6,
+    "greek": "προσέχω",
+    "english": "(+dat.) I take heed of, pay attention to"
+  },
+  {
+    "chapter": 6,
+    "greek": "ἄρτι",
+    "english": "now, just now"
+  },
+  {
+    "chapter": 6,
+    "greek": "ἔτι",
+    "english": "still, yet"
+  },
+  {
+    "chapter": 6,
+    "greek": "ἤδη",
+    "english": "already"
+  },
+  {
+    "chapter": 6,
+    "greek": "νῦν",
+    "english": "now"
+  },
+  {
+    "chapter": 6,
+    "greek": "ὅτε",
+    "english": "when"
+  },
+  {
+    "chapter": 6,
+    "greek": "οὐκέτι",
+    "english": "no longer"
+  },
+  {
+    "chapter": 6,
+    "greek": "οὔπω",
+    "english": "not yet"
+  },
+  {
+    "chapter": 6,
+    "greek": "πάλιν",
+    "english": "back, again"
+  },
+  {
+    "chapter": 6,
+    "greek": "πάντοτε",
+    "english": "always"
+  },
+  {
+    "chapter": 6,
+    "greek": "ποτέ",
+    "english": "once (at some time)"
+  },
+  {
+    "chapter": 6,
+    "greek": "σήμερον",
+    "english": "today"
+  },
+  {
+    "chapter": 6,
+    "greek": "τότε",
+    "english": "then"
+  },
+  {
+    "chapter": 6,
+    "greek": "δύο",
+    "english": "two"
+  },
+  {
+    "chapter": 6,
+    "greek": "Τιμόθεος",
+    "english": "Timonthy"
+  },
+  {
+    "chapter": 6,
+    "greek": "τόπος",
+    "english": "place"
+  },
+  {
+    "chapter": 7,
+    "greek": "δικαιοσύνη",
+    "english": "righteousness"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἐντολή",
+    "english": "commandment"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἐξουσία",
+    "english": "authority"
+  },
+  {
+    "chapter": 7,
+    "greek": "παραβολή",
+    "english": "parable"
+  },
+  {
+    "chapter": 7,
+    "greek": "παρρησία",
+    "english": "outspokenness, boldness"
+  },
+  {
+    "chapter": 7,
+    "greek": "χαρά",
+    "english": "joy"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἀπόστολος",
+    "english": "apostle"
+  },
+  {
+    "chapter": 7,
+    "greek": "θάνατος",
+    "english": "death"
+  },
+  {
+    "chapter": 7,
+    "greek": "ὀφθαλμός",
+    "english": "eye"
+  },
+  {
+    "chapter": 7,
+    "greek": "Φαρισαῖος",
+    "english": "Pharisee"
+  },
+  {
+    "chapter": 7,
+    "greek": "θηρίον",
+    "english": "animal, beast"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἱμάτιον",
+    "english": "garment"
+  },
+  {
+    "chapter": 7,
+    "greek": "μνημεῖον",
+    "english": "tomb, monument"
+  },
+  {
+    "chapter": 7,
+    "greek": "πρόβατον",
+    "english": "sheep"
+  },
+  {
+    "chapter": 7,
+    "greek": "μή",
+    "english": "not"
+  },
+  {
+    "chapter": 7,
+    "greek": "μηδέ",
+    "english": "and not, but not"
+  },
+  {
+    "chapter": 7,
+    "greek": "μηκέτι",
+    "english": "no longer"
+  },
+  {
+    "chapter": 7,
+    "greek": "μήτε",
+    "english": "and not, nor"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἀκολουθέω",
+    "english": "I follow"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἀνάγω",
+    "english": "I lead up, restore"
+  },
+  {
+    "chapter": 7,
+    "greek": "δέω",
+    "english": "I bind, tie up"
+  },
+  {
+    "chapter": 7,
+    "greek": "δοκέω",
+    "english": "I think, seem"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἐλεέω",
+    "english": "I have mercy on, pity"
+  },
+  {
+    "chapter": 7,
+    "greek": "θέλω",
+    "english": "I wish, want"
+  },
+  {
+    "chapter": 7,
+    "greek": "θεωρέω",
+    "english": "I look at"
+  },
+  {
+    "chapter": 7,
+    "greek": "καταργέω",
+    "english": "I make ineffective, abolish"
+  },
+  {
+    "chapter": 7,
+    "greek": "μαρτυρέω",
+    "english": "I bear witness, testify"
+  },
+  {
+    "chapter": 7,
+    "greek": "μέλλω",
+    "english": "I intend, am about (to)"
+  },
+  {
+    "chapter": 7,
+    "greek": "μετανοέω",
+    "english": "I repent, change my mind"
+  },
+  {
+    "chapter": 7,
+    "greek": "δεῖ",
+    "english": "it is necessary"
+  },
+  {
+    "chapter": 7,
+    "greek": "ἔξεστι",
+    "english": "it is permitted"
+  },
+  {
+    "chapter": 7,
+    "greek": "ὀπίσω",
+    "english": "behind"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἔρχομαι",
+    "english": "I come, go"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἀπέρχομαι",
+    "english": "I depart, go away"
+  },
+  {
+    "chapter": 8,
+    "greek": "διέρχομαι",
+    "english": "I cross over"
+  },
+  {
+    "chapter": 8,
+    "greek": "εἰσέρχομαι",
+    "english": "I go into, enter"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἐξέρχομαι",
+    "english": "I go out, go away"
+  },
+  {
+    "chapter": 8,
+    "greek": "παρέρχομαι",
+    "english": "I go by, pass by"
+  },
+  {
+    "chapter": 8,
+    "greek": "προσέρχομαι",
+    "english": "I come to, go to, approach"
+  },
+  {
+    "chapter": 8,
+    "greek": "συνέρχομαι",
+    "english": "I come together"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἅπτομαι",
+    "english": "I touch"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἀρνέομαι",
+    "english": "I refuse, deny"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἄρχομαι",
+    "english": "I begin"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἀσπάζομαι",
+    "english": "I greet"
+  },
+  {
+    "chapter": 8,
+    "greek": "δέχομαι",
+    "english": "I receive"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἐργάζομαι",
+    "english": "I work"
+  },
+  {
+    "chapter": 8,
+    "greek": "εὐαγγελίζομαι",
+    "english": "I proclaim the good news"
+  },
+  {
+    "chapter": 8,
+    "greek": "λογίζομαι",
+    "english": "I calculate, consider"
+  },
+  {
+    "chapter": 8,
+    "greek": "προσεύχομαι",
+    "english": "I pray"
+  },
+  {
+    "chapter": 8,
+    "greek": "προσκαλέομαι",
+    "english": "I summon"
+  },
+  {
+    "chapter": 8,
+    "greek": "ῥύομαι",
+    "english": "I rescue"
+  },
+  {
+    "chapter": 8,
+    "greek": "Ἡρῴδης",
+    "english": "Herod"
+  },
+  {
+    "chapter": 8,
+    "greek": "Ἰωάννης",
+    "english": "John"
+  },
+  {
+    "chapter": 8,
+    "greek": "μαθητής",
+    "english": "disciple"
+  },
+  {
+    "chapter": 8,
+    "greek": "προφήτης",
+    "english": "prophet"
+  },
+  {
+    "chapter": 8,
+    "greek": "στρατιώτης",
+    "english": "soldier"
+  },
+  {
+    "chapter": 8,
+    "greek": "ὑπηρέτης",
+    "english": "servant"
+  },
+  {
+    "chapter": 8,
+    "greek": "Βαρναβᾶς",
+    "english": "Barnabas"
+  },
+  {
+    "chapter": 8,
+    "greek": "Ἰούδας",
+    "english": "Judah, Judas"
+  },
+  {
+    "chapter": 8,
+    "greek": "Σατανᾶς",
+    "english": "Satan"
+  },
+  {
+    "chapter": 8,
+    "greek": "Ἡλίας",
+    "english": "Elijah"
+  },
+  {
+    "chapter": 8,
+    "greek": "Αἴγυπτος",
+    "english": "Egypt"
+  },
+  {
+    "chapter": 8,
+    "greek": "ἔρημος",
+    "english": "wilderness, desolate land"
+  },
+  {
+    "chapter": 8,
+    "greek": "ὁδός",
+    "english": "way, road"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἀλλήλος",
+    "english": "each other, one another"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἄλλος",
+    "english": "other"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἑαυτός",
+    "english": "himself, herself, itself (reflexive)"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἐγώ",
+    "english": "I, we"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἐκεῖνος",
+    "english": "that"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἐμαυτοῦ",
+    "english": "myself"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἐμός",
+    "english": "my, mine"
+  },
+  {
+    "chapter": 9,
+    "greek": "κἀγώ",
+    "english": "and I"
+  },
+  {
+    "chapter": 9,
+    "greek": "ὅλος",
+    "english": "whole, entire"
+  },
+  {
+    "chapter": 9,
+    "greek": "οὗτος",
+    "english": "this"
+  },
+  {
+    "chapter": 9,
+    "greek": "ποῖος",
+    "english": "of what kind?"
+  },
+  {
+    "chapter": 9,
+    "greek": "πόσος",
+    "english": "how great, how much?"
+  },
+  {
+    "chapter": 9,
+    "greek": "σεαυτοῦ",
+    "english": "yourself"
+  },
+  {
+    "chapter": 9,
+    "greek": "σός",
+    "english": "your, yours"
+  },
+  {
+    "chapter": 9,
+    "greek": "σύ",
+    "english": "you (sing.), you (pl.)"
+  },
+  {
+    "chapter": 9,
+    "greek": "τοιοῦτος",
+    "english": "of such a kind, such"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἄρα",
+    "english": "so"
+  },
+  {
+    "chapter": 9,
+    "greek": "γάρ",
+    "english": "gor"
+  },
+  {
+    "chapter": 9,
+    "greek": "γέ",
+    "english": "indeed"
+  },
+  {
+    "chapter": 9,
+    "greek": "δέ",
+    "english": "but"
+  },
+  {
+    "chapter": 9,
+    "greek": "διό",
+    "english": "therefore"
+  },
+  {
+    "chapter": 9,
+    "greek": "διότι",
+    "english": "because"
+  },
+  {
+    "chapter": 9,
+    "greek": "εἴτε",
+    "english": "if"
+  },
+  {
+    "chapter": 9,
+    "greek": "εἴτε ... εἴτε",
+    "english": "if ... if, whether ... or"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἐπεί",
+    "english": "since"
+  },
+  {
+    "chapter": 9,
+    "greek": "μέν",
+    "english": "on the one hand"
+  },
+  {
+    "chapter": 9,
+    "greek": "μήποτε",
+    "english": "never"
+  },
+  {
+    "chapter": 9,
+    "greek": "οὖν",
+    "english": "therefore, consequently"
+  },
+  {
+    "chapter": 9,
+    "greek": "τέ",
+    "english": "and"
+  },
+  {
+    "chapter": 9,
+    "greek": "τέ ... καὶ",
+    "english": "both ... and"
+  },
+  {
+    "chapter": 9,
+    "greek": "ἀρνίον",
+    "english": "lamb, sheep"
+  },
+  {
+    "chapter": 9,
+    "greek": "δένδρον",
+    "english": "tree"
+  },
+  {
+    "chapter": 9,
+    "greek": "μυστήριον",
+    "english": "mystery, secret"
+  },
+  {
+    "chapter": 9,
+    "greek": "ποτήριον",
+    "english": "cup"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἀλήθεια",
+    "english": "truth"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἀληθινός",
+    "english": "true, genuine, real"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἐγγύς",
+    "english": "near"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἐκεῖ",
+    "english": "there (in that place)"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἐκεῖθεν",
+    "english": "from there"
+  },
+  {
+    "chapter": 10,
+    "greek": "εὐθύς",
+    "english": "immediately"
+  },
+  {
+    "chapter": 10,
+    "greek": "καθώς",
+    "english": "just as"
+  },
+  {
+    "chapter": 10,
+    "greek": "καλῶς",
+    "english": "appropriately, well"
+  },
+  {
+    "chapter": 10,
+    "greek": "ναί",
+    "english": "yes, of course"
+  },
+  {
+    "chapter": 10,
+    "greek": "ὅμοιος",
+    "english": "similar, like"
+  },
+  {
+    "chapter": 10,
+    "greek": "ὁμοίως",
+    "english": "likewise"
+  },
+  {
+    "chapter": 10,
+    "greek": "ὅπου",
+    "english": "where"
+  },
+  {
+    "chapter": 10,
+    "greek": "ὅς",
+    "english": "who, which, what"
+  },
+  {
+    "chapter": 10,
+    "greek": "ὅτι",
+    "english": "that, because, or, (marking beginning of speech)"
+  },
+  {
+    "chapter": 10,
+    "greek": "οὗ",
+    "english": "where"
+  },
+  {
+    "chapter": 10,
+    "greek": "οὐδέ",
+    "english": "and not"
+  },
+  {
+    "chapter": 10,
+    "greek": "οὔτε",
+    "english": "neither"
+  },
+  {
+    "chapter": 10,
+    "greek": "οὔτε ... οὔτε",
+    "english": "neither ... nor"
+  },
+  {
+    "chapter": 10,
+    "greek": "οὕτως",
+    "english": "in this manner, thus"
+  },
+  {
+    "chapter": 10,
+    "greek": "οὐχί",
+    "english": "not, no"
+  },
+  {
+    "chapter": 10,
+    "greek": "πλήν",
+    "english": "however, yet"
+  },
+  {
+    "chapter": 10,
+    "greek": "πόθεν",
+    "english": "from where?"
+  },
+  {
+    "chapter": 10,
+    "greek": "ὧδε",
+    "english": "here"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἔμπροσθεν",
+    "english": "(+gen.) in front of"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἕνεκα",
+    "english": "(+gen.) for the sake of"
+  },
+  {
+    "chapter": 10,
+    "greek": "πέραν",
+    "english": "(+gen.) on the other side of"
+  },
+  {
+    "chapter": 10,
+    "greek": "χωρίς",
+    "english": "(+gen.) separate, apart from"
+  },
+  {
+    "chapter": 10,
+    "greek": "Πιλᾶτος",
+    "english": "Pilate"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἐγγίζω",
+    "english": "I approach, come near"
+  },
+  {
+    "chapter": 10,
+    "greek": "ἡγέομαι",
+    "english": "I lead"
+  },
+  {
+    "chapter": 10,
+    "greek": "θαυμάζω",
+    "english": "I am amazed"
+  },
+  {
+    "chapter": 10,
+    "greek": "θεραπεύω",
+    "english": "I heal"
+  },
+  {
+    "chapter": 10,
+    "greek": "καθεύδω",
+    "english": "I sleep"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἁμαρτάνω",
+    "english": "I do wrong, sin"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἀποθνῄσκω",
+    "english": "I die"
+  },
+  {
+    "chapter": 11,
+    "greek": "γίνομαι",
+    "english": "I become, happen"
+  },
+  {
+    "chapter": 11,
+    "greek": "παραγίνομαι",
+    "english": "I arrive, stand by"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἐσθίω",
+    "english": "I eat"
+  },
+  {
+    "chapter": 11,
+    "greek": "εὑρίσκω",
+    "english": "I find"
+  },
+  {
+    "chapter": 11,
+    "greek": "καταλείπω",
+    "english": "I leave (behind)"
+  },
+  {
+    "chapter": 11,
+    "greek": "μανθάνω",
+    "english": "I learn"
+  },
+  {
+    "chapter": 11,
+    "greek": "ὁράω",
+    "english": "I see"
+  },
+  {
+    "chapter": 11,
+    "greek": "πάσχω",
+    "english": "I suffer"
+  },
+  {
+    "chapter": 11,
+    "greek": "πίνω",
+    "english": "I drink"
+  },
+  {
+    "chapter": 11,
+    "greek": "πίπτω",
+    "english": "I fall (down)"
+  },
+  {
+    "chapter": 11,
+    "greek": "φέρω",
+    "english": "I bear, carry"
+  },
+  {
+    "chapter": 11,
+    "greek": "προσφέρω",
+    "english": "I bring to, offer"
+  },
+  {
+    "chapter": 11,
+    "greek": "φεύγω",
+    "english": "I flee"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἀπαγγέλλω",
+    "english": "I report, announce"
+  },
+  {
+    "chapter": 11,
+    "greek": "παραγγέλλω",
+    "english": "I order"
+  },
+  {
+    "chapter": 11,
+    "greek": "αἴρω",
+    "english": "I take (away), lift up"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἀποκτείνω",
+    "english": "I kill"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἀποστέλλω",
+    "english": "I send (out)"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἐγείρω",
+    "english": "I raise up, wake"
+  },
+  {
+    "chapter": 11,
+    "greek": "κρίνω",
+    "english": "I judge, decide"
+  },
+  {
+    "chapter": 11,
+    "greek": "μένω",
+    "english": "I remain"
+  },
+  {
+    "chapter": 11,
+    "greek": "ὀφείλω",
+    "english": "I owe"
+  },
+  {
+    "chapter": 11,
+    "greek": "σπείρω",
+    "english": "I sow"
+  },
+  {
+    "chapter": 11,
+    "greek": "χαίρω",
+    "english": "I rejoice"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἀναβαίνω",
+    "english": "I go up"
+  },
+  {
+    "chapter": 11,
+    "greek": "καταβαίνω",
+    "english": "I go down"
+  },
+  {
+    "chapter": 11,
+    "greek": "γινώσκω",
+    "english": "I know"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἀναγινώσκω",
+    "english": "I read"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἐπιγινώσκω",
+    "english": "I recognize"
+  },
+  {
+    "chapter": 11,
+    "greek": "ἰδού",
+    "english": "Look!, Behold!"
+  },
+  {
+    "chapter": 12,
+    "greek": "ἀνήρ",
+    "english": "man (male), husband"
+  },
+  {
+    "chapter": 12,
+    "greek": "ἀστήρ",
+    "english": "star"
+  },
+  {
+    "chapter": 12,
+    "greek": "σωτήρ",
+    "english": "savior"
+  },
+  {
+    "chapter": 12,
+    "greek": "αἰών",
+    "english": "age (long time)"
+  },
+  {
+    "chapter": 12,
+    "greek": "ἄρχων",
+    "english": "ruler, leader"
+  },
+  {
+    "chapter": 12,
+    "greek": "Σίμων",
+    "english": "Simon"
+  },
+  {
+    "chapter": 12,
+    "greek": "γυνή",
+    "english": "woman, wife"
+  },
+  {
+    "chapter": 12,
+    "greek": "ἐλπίς",
+    "english": "hope"
+  },
+  {
+    "chapter": 12,
+    "greek": "νύξ",
+    "english": "night"
+  },
+  {
+    "chapter": 12,
+    "greek": "πούς",
+    "english": "foot"
+  },
+  {
+    "chapter": 12,
+    "greek": "σάρξ",
+    "english": "flesh"
+  },
+  {
+    "chapter": 12,
+    "greek": "χάρις",
+    "english": "grace"
+  },
+  {
+    "chapter": 12,
+    "greek": "χείρ",
+    "english": "hand"
+  },
+  {
+    "chapter": 12,
+    "greek": "θυγάτηρ",
+    "english": "daughter"
+  },
+  {
+    "chapter": 12,
+    "greek": "μήτηρ",
+    "english": "mother"
+  },
+  {
+    "chapter": 12,
+    "greek": "πατήρ",
+    "english": "father, ancestor"
+  },
+  {
+    "chapter": 12,
+    "greek": "πῦρ",
+    "english": "fire"
+  },
+  {
+    "chapter": 12,
+    "greek": "ὕδωρ",
+    "english": "water"
+  },
+  {
+    "chapter": 12,
+    "greek": "φῶς",
+    "english": "light"
+  },
+  {
+    "chapter": 12,
+    "greek": "αἷμα",
+    "english": "blood"
+  },
+  {
+    "chapter": 12,
+    "greek": "θέλημα",
+    "english": "will"
+  },
+  {
+    "chapter": 12,
+    "greek": "ὄνομα",
+    "english": "name"
+  },
+  {
+    "chapter": 12,
+    "greek": "πνεῦμα",
+    "english": "spirit, wind"
+  },
+  {
+    "chapter": 12,
+    "greek": "ῥῆμα",
+    "english": "word, saying"
+  },
+  {
+    "chapter": 12,
+    "greek": "στόμα",
+    "english": "mouth"
+  },
+  {
+    "chapter": 12,
+    "greek": "σῶμα",
+    "english": "body"
+  },
+  {
+    "chapter": 12,
+    "greek": "μείζων",
+    "english": "greater, larger"
+  },
+  {
+    "chapter": 12,
+    "greek": "πλείων",
+    "english": "more"
+  },
+  {
+    "chapter": 12,
+    "greek": "τις τι",
+    "english": "someone, something"
+  },
+  {
+    "chapter": 12,
+    "greek": "τίς τί",
+    "english": "who?, which?, what?"
+  },
+  {
+    "chapter": 12,
+    "greek": "ὅστις",
+    "english": "who"
+  },
+  {
+    "chapter": 12,
+    "greek": "ὥσπερ",
+    "english": "just as"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἔθνος",
+    "english": "nation (pl. Gentiles)"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἔλεος",
+    "english": "mercy"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἔτος",
+    "english": "year"
+  },
+  {
+    "chapter": 13,
+    "greek": "μέλος",
+    "english": "member, part, limb"
+  },
+  {
+    "chapter": 13,
+    "greek": "μέρος",
+    "english": "part, share"
+  },
+  {
+    "chapter": 13,
+    "greek": "ὄρος",
+    "english": "mountain, hill"
+  },
+  {
+    "chapter": 13,
+    "greek": "πλῆθος",
+    "english": "multitude, large amount"
+  },
+  {
+    "chapter": 13,
+    "greek": "σκεῦος",
+    "english": "object (pl. property)"
+  },
+  {
+    "chapter": 13,
+    "greek": "σκότος",
+    "english": "darkness"
+  },
+  {
+    "chapter": 13,
+    "greek": "τέλος",
+    "english": "end, goal"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἀρχιερεύς",
+    "english": "high priest, chief priest"
+  },
+  {
+    "chapter": 13,
+    "greek": "βασιλεύς",
+    "english": "king"
+  },
+  {
+    "chapter": 13,
+    "greek": "γραμματεύς",
+    "english": "scribe, clerk"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἱερεύς",
+    "english": "priest"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἀνάστασις",
+    "english": "resurrection"
+  },
+  {
+    "chapter": 13,
+    "greek": "γνῶσις",
+    "english": "knowledge"
+  },
+  {
+    "chapter": 13,
+    "greek": "δύναμις",
+    "english": "power, miracle"
+  },
+  {
+    "chapter": 13,
+    "greek": "θλῖψις",
+    "english": "suffering, oppression"
+  },
+  {
+    "chapter": 13,
+    "greek": "κρίσις",
+    "english": "judgement"
+  },
+  {
+    "chapter": 13,
+    "greek": "παράκλησις",
+    "english": "encouragement"
+  },
+  {
+    "chapter": 13,
+    "greek": "πίστις",
+    "english": "faith"
+  },
+  {
+    "chapter": 13,
+    "greek": "πόλις",
+    "english": "city, town"
+  },
+  {
+    "chapter": 13,
+    "greek": "συνείδησις",
+    "english": "conscience"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἀληθής",
+    "english": "true, truthful, genuine"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἀσθενής",
+    "english": "weak, sick"
+  },
+  {
+    "chapter": 13,
+    "greek": "πᾶς",
+    "english": "all, every, whole"
+  },
+  {
+    "chapter": 13,
+    "greek": "ἅπας",
+    "english": "all, every"
+  },
+  {
+    "chapter": 13,
+    "greek": "εἷς μία ἑν",
+    "english": "one, a single"
+  },
+  {
+    "chapter": 13,
+    "greek": "οὐδείς",
+    "english": "no one, nothing"
+  },
+  {
+    "chapter": 13,
+    "greek": "μηδείς",
+    "english": "no one, nothing"
+  },
+  {
+    "chapter": 13,
+    "greek": "Μωϋσῆς",
+    "english": "Moses"
+  },
+  {
+    "chapter": 13,
+    "greek": "νοῦς",
+    "english": "mind"
+  },
+  {
+    "chapter": 14,
+    "greek": "ἁμαρτωλός",
+    "english": "sinner"
+  },
+  {
+    "chapter": 14,
+    "greek": "διδάσκαλος",
+    "english": "teacher"
+  },
+  {
+    "chapter": 14,
+    "greek": "θρόνος",
+    "english": "throne"
+  },
+  {
+    "chapter": 14,
+    "greek": "Ἰάκωβος",
+    "english": "James"
+  },
+  {
+    "chapter": 14,
+    "greek": "λίθος",
+    "english": "stone"
+  },
+  {
+    "chapter": 14,
+    "greek": "πρεσβύτερος",
+    "english": "old person, elder"
+  },
+  {
+    "chapter": 14,
+    "greek": "ἀμπελών",
+    "english": "vineyard"
+  },
+  {
+    "chapter": 14,
+    "greek": "εἰκών",
+    "english": "image"
+  },
+  {
+    "chapter": 14,
+    "greek": "Ἕλλην",
+    "english": "Greek"
+  },
+  {
+    "chapter": 14,
+    "greek": "Καῖσαρ",
+    "english": "Caesar"
+  },
+  {
+    "chapter": 14,
+    "greek": "κρίμα",
+    "english": "judgement"
+  },
+  {
+    "chapter": 14,
+    "greek": "οὖς",
+    "english": "ear"
+  },
+  {
+    "chapter": 14,
+    "greek": "παῖς",
+    "english": "child, servant"
+  },
+  {
+    "chapter": 14,
+    "greek": "παιδίον",
+    "english": "child, infant"
+  },
+  {
+    "chapter": 14,
+    "greek": "σπέρμα",
+    "english": "seed"
+  },
+  {
+    "chapter": 14,
+    "greek": "πάσχα",
+    "english": "Passover"
+  },
+  {
+    "chapter": 14,
+    "greek": "ἀγοράζω",
+    "english": "I buy"
+  },
+  {
+    "chapter": 14,
+    "greek": "βλασφημέω",
+    "english": "I blaspheme"
+  },
+  {
+    "chapter": 14,
+    "greek": "διακονέω",
+    "english": "I serve"
+  },
+  {
+    "chapter": 14,
+    "greek": "διαλογίζομαι",
+    "english": "I consider, argue, discuss"
+  },
+  {
+    "chapter": 14,
+    "greek": "ἐλπίζω",
+    "english": "I hope"
+  },
+  {
+    "chapter": 14,
+    "greek": "ἑτοιμάζω",
+    "english": "I prepare, make ready"
+  },
+  {
+    "chapter": 14,
+    "greek": "κρατέω",
+    "english": "I grasp, arrest"
+  },
+  {
+    "chapter": 14,
+    "greek": "μισέω",
+    "english": "I hate"
+  },
+  {
+    "chapter": 14,
+    "greek": "πειράζω",
+    "english": "I test, tempt"
+  },
+  {
+    "chapter": 14,
+    "greek": "πράσσω",
+    "english": "I do"
+  },
+  {
+    "chapter": 14,
+    "greek": "προφητεύω",
+    "english": "I prophesy"
+  },
+  {
+    "chapter": 14,
+    "greek": "σκανδαλίζω",
+    "english": "I cause to fall/sin"
+  },
+  {
+    "chapter": 14,
+    "greek": "ὑποτάσσω",
+    "english": "I subject"
+  },
+  {
+    "chapter": 14,
+    "greek": "φυλάσσω",
+    "english": "I guard"
+  },
+  {
+    "chapter": 14,
+    "greek": "φωνέω",
+    "english": "I call (out)"
+  },
+  {
+    "chapter": 14,
+    "greek": "χαρίζομαι",
+    "english": "I give freely"
+  },
+  {
+    "chapter": 15,
+    "greek": "διάβολος",
+    "english": "the slanderer, the devil"
+  },
+  {
+    "chapter": 15,
+    "greek": "καρπός",
+    "english": "fruit"
+  },
+  {
+    "chapter": 15,
+    "greek": "ναός",
+    "english": "sanctuary, shrine, temple"
+  },
+  {
+    "chapter": 15,
+    "greek": "Φίλιππος",
+    "english": "Philip"
+  },
+  {
+    "chapter": 15,
+    "greek": "φόβος",
+    "english": "fear"
+  },
+  {
+    "chapter": 15,
+    "greek": "χρόνος",
+    "english": "time (period of)"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἀποκρίνομαι",
+    "english": "I answer"
+  },
+  {
+    "chapter": 15,
+    "greek": "βούλομαι",
+    "english": "I wish"
+  },
+  {
+    "chapter": 15,
+    "greek": "πορεύομαι",
+    "english": "I go"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἐκπορεύομαι",
+    "english": "I go out"
+  },
+  {
+    "chapter": 15,
+    "greek": "φοβέομαι",
+    "english": "I am afraid, fear"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἁγιάζω",
+    "english": "I make holy"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἀσθενέω",
+    "english": "I am weak, sick"
+  },
+  {
+    "chapter": 15,
+    "greek": "βαστάζω",
+    "english": "I take up"
+  },
+  {
+    "chapter": 15,
+    "greek": "γαμέω",
+    "english": "I marry"
+  },
+  {
+    "chapter": 15,
+    "greek": "γνωρίζω",
+    "english": "I make known"
+  },
+  {
+    "chapter": 15,
+    "greek": "δουλεύω",
+    "english": "I am a slave"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἐκχέω",
+    "english": "I pour out"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἐνδύω",
+    "english": "I dress"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἐπιστρέφω",
+    "english": "I turn (back)"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἥκω",
+    "english": "I have come, am present"
+  },
+  {
+    "chapter": 15,
+    "greek": "ἰσχύω",
+    "english": "I am strong"
+  },
+  {
+    "chapter": 15,
+    "greek": "κελεύω",
+    "english": "I command"
+  },
+  {
+    "chapter": 15,
+    "greek": "κλαίω",
+    "english": "I weep"
+  },
+  {
+    "chapter": 15,
+    "greek": "κωλύω",
+    "english": "I hinder"
+  },
+  {
+    "chapter": 15,
+    "greek": "λυπέω",
+    "english": "I grieve, pain"
+  },
+  {
+    "chapter": 15,
+    "greek": "ὀμνύω",
+    "english": "I swear, take an oath"
+  },
+  {
+    "chapter": 15,
+    "greek": "περισσεύω",
+    "english": "I exceed"
+  },
+  {
+    "chapter": 15,
+    "greek": "τελέω",
+    "english": "I finish, complete"
+  },
+  {
+    "chapter": 15,
+    "greek": "ὑποστρέφω",
+    "english": "I turn back, return"
+  },
+  {
+    "chapter": 15,
+    "greek": "φαίνω",
+    "english": "I shine, appear"
+  },
+  {
+    "chapter": 15,
+    "greek": "φρονέω",
+    "english": "I ponder"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἀκοή",
+    "english": "fame, report"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἀσθένεια",
+    "english": "weakness, disease"
+  },
+  {
+    "chapter": 16,
+    "greek": "διδαχή",
+    "english": "teaching (act and content)"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἑορτή",
+    "english": "festival"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἐπιστολή",
+    "english": "letter (correspondence)"
+  },
+  {
+    "chapter": 16,
+    "greek": "θυσία",
+    "english": "offering, sacrifice"
+  },
+  {
+    "chapter": 16,
+    "greek": "κώμη",
+    "english": "village"
+  },
+  {
+    "chapter": 16,
+    "greek": "μάχαιρα",
+    "english": "sword"
+  },
+  {
+    "chapter": 16,
+    "greek": "νεφέλη",
+    "english": "cloud"
+  },
+  {
+    "chapter": 16,
+    "greek": "παρουσία",
+    "english": "presense, coming"
+  },
+  {
+    "chapter": 16,
+    "greek": "περιτομή",
+    "english": "circumcision"
+  },
+  {
+    "chapter": 16,
+    "greek": "πορνεία",
+    "english": "sexual immorality"
+  },
+  {
+    "chapter": 16,
+    "greek": "προσευχή",
+    "english": "prayer"
+  },
+  {
+    "chapter": 16,
+    "greek": "ὑπομονή",
+    "english": "patience"
+  },
+  {
+    "chapter": 16,
+    "greek": "φυλή",
+    "english": "tribe, nation"
+  },
+  {
+    "chapter": 16,
+    "greek": "χήρα",
+    "english": "widow"
+  },
+  {
+    "chapter": 16,
+    "greek": "χώρα",
+    "english": "country(side)"
+  },
+  {
+    "chapter": 16,
+    "greek": "τρεῖς",
+    "english": "three"
+  },
+  {
+    "chapter": 16,
+    "greek": "τέσσαρες",
+    "english": "four"
+  },
+  {
+    "chapter": 16,
+    "greek": "πέντε",
+    "english": "five"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἕξ",
+    "english": "six"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἑπτά",
+    "english": "seven"
+  },
+  {
+    "chapter": 16,
+    "greek": "ὀκτώ",
+    "english": "eight"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἐννέα",
+    "english": "nine"
+  },
+  {
+    "chapter": 16,
+    "greek": "δέκα",
+    "english": "ten"
+  },
+  {
+    "chapter": 16,
+    "greek": "δώδεκα",
+    "english": "twelve"
+  },
+  {
+    "chapter": 16,
+    "greek": "ἑκατόν",
+    "english": "one hundred"
+  },
+  {
+    "chapter": 16,
+    "greek": "χιλιάς",
+    "english": "one thousand"
+  },
+  {
+    "chapter": 16,
+    "greek": "πρῶτος",
+    "english": "first"
+  },
+  {
+    "chapter": 16,
+    "greek": "δεύτερος",
+    "english": "second"
+  },
+  {
+    "chapter": 16,
+    "greek": "τρίτος",
+    "english": "third"
+  },
+  {
+    "chapter": 16,
+    "greek": "οὐαί",
+    "english": "woe"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἄν",
+    "english": "conditional particle"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἄχρι",
+    "english": "until"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἵνα",
+    "english": "in order that"
+  },
+  {
+    "chapter": 17,
+    "greek": "ὅπως",
+    "english": "in order that"
+  },
+  {
+    "chapter": 17,
+    "greek": "ὅταν",
+    "english": "whenever"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἐάν",
+    "english": "alternative for ἄν"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἀγρός",
+    "english": "field"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἄνεμος",
+    "english": "wind"
+  },
+  {
+    "chapter": 17,
+    "greek": "διάκονος",
+    "english": "servant"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἐχθρός",
+    "english": "enemy"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἥλιος",
+    "english": "sun"
+  },
+  {
+    "chapter": 17,
+    "greek": "οἶνος",
+    "english": "wine"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἀναιρέω",
+    "english": "I take away, kill"
+  },
+  {
+    "chapter": 17,
+    "greek": "κατηγορέω",
+    "english": "I accuse"
+  },
+  {
+    "chapter": 17,
+    "greek": "ὁμολογέω",
+    "english": "I promise, confess"
+  },
+  {
+    "chapter": 17,
+    "greek": "πτωχός",
+    "english": "poor"
+  },
+  {
+    "chapter": 17,
+    "greek": "γενεά",
+    "english": "family, generation"
+  },
+  {
+    "chapter": 17,
+    "greek": "γλῶσσα",
+    "english": "tongue, language"
+  },
+  {
+    "chapter": 17,
+    "greek": "γραφή",
+    "english": "writing, scripture"
+  },
+  {
+    "chapter": 17,
+    "greek": "διαθήκη",
+    "english": "covenant, last will and testament"
+  },
+  {
+    "chapter": 17,
+    "greek": "διακονία",
+    "english": "service, ministry"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἐπαγγελία",
+    "english": "promise"
+  },
+  {
+    "chapter": 17,
+    "greek": "ἐπιθυμία",
+    "english": "desire"
+  },
+  {
+    "chapter": 17,
+    "greek": "θύρα",
+    "english": "door"
+  },
+  {
+    "chapter": 17,
+    "greek": "Ἰουδαία",
+    "english": "Judea"
+  },
+  {
+    "chapter": 17,
+    "greek": "μαρτυρία",
+    "english": "testamony, witness"
+  },
+  {
+    "chapter": 17,
+    "greek": "ὀργή",
+    "english": "anger, wrath"
+  },
+  {
+    "chapter": 17,
+    "greek": "σοφία",
+    "english": "wisdom"
+  },
+  {
+    "chapter": 17,
+    "greek": "σωτηρία",
+    "english": "salvation"
+  },
+  {
+    "chapter": 17,
+    "greek": "τιμή",
+    "english": "price, value, honour"
+  },
+  {
+    "chapter": 17,
+    "greek": "φυλακή",
+    "english": "watch (guards), prison"
+  },
+  {
+    "chapter": 17,
+    "greek": "χρεία",
+    "english": "need"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἄξιος",
+    "english": "worthy"
+  },
+  {
+    "chapter": 18,
+    "greek": "δεξιός",
+    "english": "right (hand)"
+  },
+  {
+    "chapter": 18,
+    "greek": "δυνατός",
+    "english": "powerful, capable, able"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἐλεύθερος",
+    "english": "free"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἔσχατος",
+    "english": "last, least"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἱκανός",
+    "english": "sufficient"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἰσχυρός",
+    "english": "strong"
+  },
+  {
+    "chapter": 18,
+    "greek": "λευκός",
+    "english": "white, bright"
+  },
+  {
+    "chapter": 18,
+    "greek": "λοιπός",
+    "english": "remaining"
+  },
+  {
+    "chapter": 18,
+    "greek": "μέσος",
+    "english": "middle"
+  },
+  {
+    "chapter": 18,
+    "greek": "νέος",
+    "english": "new, young"
+  },
+  {
+    "chapter": 18,
+    "greek": "ὀλίγος",
+    "english": "small, little (pl. few)"
+  },
+  {
+    "chapter": 18,
+    "greek": "πλούσιος",
+    "english": "rich"
+  },
+  {
+    "chapter": 18,
+    "greek": "πνευματικός",
+    "english": "spiritual"
+  },
+  {
+    "chapter": 18,
+    "greek": "φίλος",
+    "english": "loved, friendly, friend"
+  },
+  {
+    "chapter": 18,
+    "greek": "μάρτυς",
+    "english": "witness"
+  },
+  {
+    "chapter": 18,
+    "greek": "μισθός",
+    "english": "pay, wages"
+  },
+  {
+    "chapter": 18,
+    "greek": "σταυρός",
+    "english": "cross"
+  },
+  {
+    "chapter": 18,
+    "greek": "αὐξάνω",
+    "english": "I grow"
+  },
+  {
+    "chapter": 18,
+    "greek": "καθαρίζω",
+    "english": "I make/declare clean"
+  },
+  {
+    "chapter": 18,
+    "greek": "καθίζω",
+    "english": "I cause to sit down"
+  },
+  {
+    "chapter": 18,
+    "greek": "δύναμαι",
+    "english": "I can, I am able"
+  },
+  {
+    "chapter": 18,
+    "greek": "κάθημαι",
+    "english": "I sit (down)"
+  },
+  {
+    "chapter": 18,
+    "greek": "κεῖμαι",
+    "english": "I lie, recline"
+  },
+  {
+    "chapter": 18,
+    "greek": "οἶδα",
+    "english": "I know"
+  },
+  {
+    "chapter": 18,
+    "greek": "πάρειμι",
+    "english": "I am present"
+  },
+  {
+    "chapter": 18,
+    "greek": "ὥστε",
+    "english": "with the result that"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἀδικέω",
+    "english": "I do wrong"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἀδικία",
+    "english": "wrongdoing"
+  },
+  {
+    "chapter": 18,
+    "greek": "καθαρός",
+    "english": "clean, pure"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἀκάθαρτος",
+    "english": "impure, unclean"
+  },
+  {
+    "chapter": 18,
+    "greek": "ἄπιστος",
+    "english": "unbelieving, faithless"
+  },
+  {
+    "chapter": 19,
+    "greek": "δίδωμι",
+    "english": "I give"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἀποδίδωμι",
+    "english": "I give away"
+  },
+  {
+    "chapter": 19,
+    "greek": "παραδίδωμι",
+    "english": "I hand over, entrust"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἵστημι",
+    "english": "I cause to stand, stand"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἀνίστημι",
+    "english": "I raise"
+  },
+  {
+    "chapter": 19,
+    "greek": "παρίστημι",
+    "english": "I place beside"
+  },
+  {
+    "chapter": 19,
+    "greek": "τίθημι",
+    "english": "I put, place"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἐπιτίθημι",
+    "english": "I put, place upon"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἀφίημι",
+    "english": "I leave, forgive, dismiss"
+  },
+  {
+    "chapter": 19,
+    "greek": "συνίημι",
+    "english": "I understand"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἀπόλλυμι",
+    "english": "I ruin, destroy"
+  },
+  {
+    "chapter": 19,
+    "greek": "δείκνυμι",
+    "english": "I point out, show"
+  },
+  {
+    "chapter": 19,
+    "greek": "πίμπλημι",
+    "english": "I fulfil"
+  },
+  {
+    "chapter": 19,
+    "greek": "φημί",
+    "english": "I say"
+  },
+  {
+    "chapter": 19,
+    "greek": "δικαιόω",
+    "english": "I justify"
+  },
+  {
+    "chapter": 19,
+    "greek": "πληρόω",
+    "english": "I fulfil, fill, complete"
+  },
+  {
+    "chapter": 19,
+    "greek": "σταυρόω",
+    "english": "I crucify"
+  },
+  {
+    "chapter": 19,
+    "greek": "τελειόω",
+    "english": "I accomplish, complete"
+  },
+  {
+    "chapter": 19,
+    "greek": "φανερόω",
+    "english": "I reveal, make known"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἀγαπάω",
+    "english": "I love"
+  },
+  {
+    "chapter": 19,
+    "greek": "γεννάω",
+    "english": "I bear (beget)"
+  },
+  {
+    "chapter": 19,
+    "greek": "διψάω",
+    "english": "I thirst (for)"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἐρωτάω",
+    "english": "I ask"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἐπερωτάω",
+    "english": "I ask (for)"
+  },
+  {
+    "chapter": 19,
+    "greek": "ζάω",
+    "english": "I live"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἰάομαι",
+    "english": "I heal"
+  },
+  {
+    "chapter": 19,
+    "greek": "κοπιάω",
+    "english": "I labour"
+  },
+  {
+    "chapter": 19,
+    "greek": "νικάω",
+    "english": "I overcome"
+  },
+  {
+    "chapter": 19,
+    "greek": "πεινάω",
+    "english": "I hunger"
+  },
+  {
+    "chapter": 19,
+    "greek": "πλανάω",
+    "english": "I deceive, lead astray"
+  },
+  {
+    "chapter": 19,
+    "greek": "τιμάω",
+    "english": "I honour, value"
+  },
+  {
+    "chapter": 19,
+    "greek": "ἐπιτιμάω",
+    "english": "I rebuke"
+  },
+  {
+    "chapter": 20,
+    "greek": "ἀληθῶς",
+    "english": "truly"
+  },
+  {
+    "chapter": 20,
+    "greek": "ἐλάχιστος",
+    "english": "smallest"
+  },
+  {
+    "chapter": 20,
+    "greek": "εὖ",
+    "english": "well"
+  },
+  {
+    "chapter": 20,
+    "greek": "κρεῖσσον",
+    "english": "better"
+  },
+  {
+    "chapter": 20,
+    "greek": "μάλιστα",
+    "english": "most of all"
+  },
+  {
+    "chapter": 20,
+    "greek": "μᾶλλον",
+    "english": "more, rather"
+  },
+  {
+    "chapter": 20,
+    "greek": "μικρόν",
+    "english": "a little, a short time"
+  },
+  {
+    "chapter": 20,
+    "greek": "μικρός",
+    "english": "small"
+  },
+  {
+    "chapter": 20,
+    "greek": "χεῖρον",
+    "english": "worse"
+  },
+  {
+    "chapter": 20,
+    "greek": "ζῷον",
+    "english": "living thing"
+  },
+  {
+    "chapter": 20,
+    "greek": "θυσιαστήριον",
+    "english": "altar"
+  },
+  {
+    "chapter": 20,
+    "greek": "ποιμήν",
+    "english": "shepherd"
+  },
+  {
+    "chapter": 20,
+    "greek": "θεάομαι",
+    "english": "I see, look at"
+  },
+  {
+    "chapter": 20,
+    "greek": "καυχάομαι",
+    "english": "I boast"
+  },
+  {
+    "chapter": 20,
+    "greek": "μιμνῄσκομαι",
+    "english": "I remember"
+  },
+  {
+    "chapter": 20,
+    "greek": "νίπτω",
+    "english": "I wash"
+  }
+]
