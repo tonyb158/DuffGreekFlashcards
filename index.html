@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-        <label for="chapterSelect">Study:</label>
+    <hr>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greek Flashcards</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<script src="js/app.js" defer></script>
+
+<body>
+
+    <label for="chapterSelect">Study:</label>
 
     <select id="chapterSelect">
         <option value="all">All Chapters</option>
@@ -11,23 +21,13 @@
         Start Session
     </button>
 
-    <hr>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Greek Flashcards</title>
-    <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
+    <div id="card" class="card" onclick="flipCard()">
 
-    <div class="card">
-        <h1 id="greekWord">λύω</h1>
+        <h1 id="greekWord"></h1>
 
-        <p id="definition" style="display:none;">
-            I loose, release
-        </p>
+        <p id="definition" style="display:none;"></p>
 
-        <button onclick="showAnswer()">
-            Show Answer
-        </button>
+    </div>
 
         <br><br>
 
@@ -42,8 +42,6 @@
 <p id="remaining"></p>
 <p id="stats"></p>
     </div>
-
-    <script src="app.js"></script>
 
 </body>
 </html>

@@ -2,6 +2,7 @@ let allCards = [];
 let cards = [];
 let studyDeck = [];
 let currentCard = null;
+let showingAnswer = false;
 
 let correctCount = 0;
 let missedCount = 0;
@@ -99,11 +100,38 @@ function showCard() {
     document.getElementById("definition").textContent =
         currentCard.english;
 
+    showingAnswer = false;
+
+    document.getElementById("greekWord").style.display =
+        "block";
+
     document.getElementById("definition").style.display =
         "none";
 
     document.getElementById("remaining").textContent =
         `${studyDeck.length + 1} cards remaining`;
+}
+
+function flipCard() {
+
+    const card =
+        document.getElementById("card");
+
+    card.style.opacity = 0;
+
+    setTimeout(() => {
+
+        showingAnswer = !showingAnswer;
+
+        document.getElementById("greekWord").style.display =
+            showingAnswer ? "none" : "block";
+
+        document.getElementById("definition").style.display =
+            showingAnswer ? "block" : "none";
+
+        card.style.opacity = 1;
+
+    }, 100);
 }
 
 function nextCard() {
