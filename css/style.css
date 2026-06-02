@@ -7,14 +7,15 @@ body {
 .card {
     border: 2px solid #dd094c;
     padding: 30px;
-    width: min(90vw, 600px);
-    height: 250px;
+    width: min(90vw, 320px);
+    height: 180px;
     margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
     border-radius: 10px;
     transition: all 0.2s ease;
+    background-color: beige;
 }
 
 #greekWord {
